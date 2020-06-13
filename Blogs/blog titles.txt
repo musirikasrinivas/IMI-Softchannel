@@ -1,0 +1,54 @@
+Top Data Science Resources to follow !!,https://www.kaggle.com/getting-started/153342 
+An awesome Data Science repository to learn and apply for real world problems,https://github.com/academic/awesome-datascience
+I wanna be a data scientist, how?,https://www.kdnuggets.com/2020/01/wanna-be-data-scientist.html
+25 Must Know Terms & concepts for Beginners in Deep Learning,https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/
+10 Simple hacks to speed up your Data Analysis in Python,https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b
+AI for Everyone: Myth or Reality?,https://towardsdatascience.com/ai-for-everyone-myth-or-reality-44edc24f7982
+must read articles for data science enthusiast,https://github.com/datasciencescoop/Data-Science-Tutorials#must-read-articles-for-data-science-enthusiast
+Which Technology Should I Learn?,https://www.datacamp.com/community/blog/technologies
+AI vs ML vs DL,https://www.datacamp.com/community/tutorials/machine-deep-learning
+Python vs R for Data Science: What’s the Difference?,https://www.datacamp.com/community/blog/when-to-use-python-or-r
+Data science cheat sheets,https://www.datacamp.com/community/data-science-cheatsheets
+20+ Inspiring Data Scientists to Follow in 2020,https://www.aitimejournal.com/data-scientists
+Learn Deep Learning and Reinforcement Learning lectures from top Universities,https://github.com/Machine-Learning-Tokyo/AI_Curriculum
+Some of the Best Kaggle Competitions for Beginners.,https://www.kaggle.com/getting-started/78482
+List of data science cheat sheet with Python,https://www.kaggle.com/getting-started/78118
+Glossaries of Data Science,http://rocketdatascience.org/?p=1253
+5 mistakes you can avoid in your first steps as Data Scientist,https://medium.com/predict/5-mistakes-you-can-avoid-in-your-first-steps-as-data-scientist-6fba006c292d
+When not to use machine learning or AI,https://towardsdatascience.com/when-not-to-use-machine-learning-or-ai-8185650f6a29
+Data Science Books you should read in 2020,https://towardsdatascience.com/data-science-books-you-should-read-in-2020-358f70e1d9b2
+I wasn’t getting hired as a Data Scientist. So I sought data on who is.,https://towardsdatascience.com/i-wasnt-getting-hired-as-a-data-scientist-so-i-sought-data-on-who-is-c59afd7d56f5
+How to process a DataFrame with billions of rows in seconds,https://towardsdatascience.com/how-to-process-a-dataframe-with-billions-of-rows-in-seconds-c8212580f447
+What 70% of Data Science Learners Do Wrong,https://towardsdatascience.com/what-70-of-data-science-learners-do-wrong-ac35326219e4
+Automated Feature Engineering in Python,https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219
+Data Scientists Versus Statisticians,https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f
+10 Python image manipulation tools,https://opendatascience.com/10-python-image-manipulation-tools/
+9 resources for data science projects,https://opensource.com/article/19/2/learn-data-science-ai
+10 Things I Wish I Knew About Learning Data Science,https://towardsdatascience.com/10-things-i-wish-i-knew-about-learning-data-science-7a30bfb91759
+10 Awesome Data Manipulation and Wrangling Hacks, Tips and Tricks,https://www.analyticsvidhya.com/blog/2020/03/10-awesome-data-manipulation-and-wrangling-hacks-tips-and-tricks/?utm_source=blog&utm_medium=7-python-hacks-tips-tricks-data-science
+10 Powerful and Time-Saving Data Exploration Hacks, Tips and Tricks!,https://www.analyticsvidhya.com/blog/2020/04/10-time-saving-data-exploration-hacks-tips-tricks/?utm_source=blog&utm_medium=7-python-hacks-tips-tricks-data-science
+10 Productive Jupyter Notebook Hacks, Tips and Tricks!,https://www.analyticsvidhya.com/blog/2020/04/10-productive-jupyter-notebook-hacks-tips-tricks/?utm_source=blog&utm_medium=7-python-hacks-tips-tricks-data-science
+7 Python Hacks, Tips and Tricks for Data Science Projects,https://www.analyticsvidhya.com/blog/2020/04/7-python-hacks-tips-tricks-data-science/
+​​​​15 Python Libraries for Data Science You Should Know,https://www.dataquest.io/blog/15-python-libraries-for-data-science/     
+Why Choose Data Science for Your Career,https://towardsdatascience.com/why-choose-data-science-for-your-career-ca38db0c28d4
+8 Tricks in Python to accelerate your Data Science development,https://towardsdatascience.com/8-tricks-in-python-to-accelerate-your-data-science-development-cad3b634e140
+Pandas 100 tricks,https://www.kaggle.com/python10pm/pandas-100-tricks
+sklearn 35 best tips and tricks,https://www.kaggle.com/python10pm/sklearn-35-best-tips-and-tricks
+10 Skills To Master For Becoming A Data Scientist,https://www.edureka.co/blog/how-to-become-a-data-scientist/
+Overview of Classification Methods in Python with Scikit-Learn,https://stackabuse.com/overview-of-classification-methods-in-python-with-scikit-learn/			-
+Domain Knowledge — The Second Most Important Skill to Have as a Data Scientist,https://towardsdatascience.com/the-second-most-important-skill-to-have-as-a-data-scientist-2311f9efa143
+6 Data Science Skills to Take Your Career to the Next Level,https://towardsdatascience.com/6-data-science-skills-to-take-your-career-to-the-next-level-c100610b4014		
+Selecting the best Machine Learning algorithm for your regression problem,https://towardsdatascience.com/4-super-useful-python-features-993ae484fbb8
+The 5 Basic Statistics Concepts Data Scientists Need to Know,https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
+How to Web Scrape with Python in 4 Minutes,https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460
+Introduction to Data Visualization in Python,https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed
+A Quick Introduction to Neural Networks,https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
+An Intuitive Explanation of Convolutional Neural Networks,https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+How do pre-trained models work?,https://towardsdatascience.com/how-do-pretrained-models-work-11fe2f64eaa2
+10 Amazing Examples Of How Deep Learning AI Is Used In Practice?,https://www.forbes.com/sites/bernardmarr/2018/08/20/10-amazing-examples-of-how-deep-learning-ai-is-used-in-practice/#28501827f98a
+solve any image classification problem quickly and easily with transfer learning,https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
+10 New Things I Learnt from fast.ai v3,https://towardsdatascience.com/10-new-things-i-learnt-from-fast-ai-v3-4d79c1f07e33
+The 7 NLP Techniques That Will Change How You Communicate in the Future,https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-i-f0114b2f0497
+The 5 Computer Vision Techniques That Will Change How You See The World,https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b
+How I went from zero coding skills to data scientist in 6 months,https://towardsdatascience.com/how-i-went-from-zero-coding-skills-to-data-scientist-in-6-months-c2207b65f2f3
+
